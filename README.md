@@ -14,7 +14,7 @@ Projek
 <p>4. Projek sudah siap dijalankan</p>
 
 <h3>Tampilan Aplikasi</h3>
-<img src="https://github.com/icekimo49/Tugas-Kriptografi/blob/main/Screenshot.png">
+<img src="https://github.com/muhammad-kal/Tugas-Kriptografi/blob/main/SS.jpg">
 
 # Mekanik Permainan
 <p><span style="font-weight:700">- Membangun Candi pada Kurun Waktu Tertentu!</span></p>
