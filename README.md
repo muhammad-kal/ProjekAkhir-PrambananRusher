@@ -1,7 +1,7 @@
 # ProjekAkhirGrafika-PrambananRusher
 
 Permainan sederhana di mana pengguna dapat berinteraksi secara aktif dengan lingkungan melalui mekanik sederhana, seperti memukul palu untuk “membangun” struktur candi!
-<img src="https://static.cdnlogo.com/logos/u/92/unity.svg" height="30" alt="unity logo"  />
+<img src="https://thestartupproject.io/wp-content/uploads/2023/11/Unity-Logo-White.webp" height="30" alt="unity logo"  />
 
 Projek
 # Cara Menjalankan Aplikasi
