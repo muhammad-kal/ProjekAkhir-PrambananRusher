@@ -16,6 +16,9 @@ Projek
 <h3>Tampilan Aplikasi</h3>
 <img src="https://github.com/muhammad-kal/Tugas-Kriptografi/blob/main/SS.jpg">
 
+<p>Link Youtube</p>
+<a href="https://youtu.be/n70_UY5roqA">https://youtu.be/n70_UY5roqA</a>
+
 # Mekanik Permainan
 <p><span style="font-weight:700">- Membangun Candi pada Kurun Waktu Tertentu!</span></p>
 
