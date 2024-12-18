@@ -19,6 +19,9 @@ Projek
 <p>Link Youtube</p>
 <a href="https://youtu.be/n70_UY5roqA">https://youtu.be/n70_UY5roqA</a>
 
+<p>Apabila File Github Error karena git.ignore, bisa coba download melalui link Google Drive berikut :</p>
+<a href="https://drive.google.com/drive/folders/1kE0_JLZKMxJjEo_l9OyCGYQU4oqxqVKt?hl=id">https://drive.google.com/drive/folders/1kE0_JLZKMxJjEo_l9OyCGYQU4oqxqVKt?hl=id</a>
+
 # Mekanik Permainan
 <p><span style="font-weight:700">- Membangun Candi pada Kurun Waktu Tertentu!</span></p>
 
